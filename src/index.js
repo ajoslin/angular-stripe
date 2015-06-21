@@ -1,6 +1,5 @@
 'use strict'
 
-var angular = require('angular')
 var provider = require('./provider')
 var Stripe = window.Stripe
 
